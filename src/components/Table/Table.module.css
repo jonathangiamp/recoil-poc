@@ -1,0 +1,13 @@
+.main  {
+  padding: 3rem;
+}
+
+.table {
+  display: flex;
+  flex-direction: row;
+  column-gap: 1rem;
+}
+
+.column {
+  width: fit-content;
+}
